@@ -1,0 +1,312 @@
+fileFormatVersion: 2
+guid: ef7dfe18a186e0a4187df48215d760bc
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 400
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Prota_Por_Partes_Pt1_0
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 987
+        width: 603
+        height: 690
+      alignment: 9
+      pivot: {x: 0.6201633, y: 0.071872875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f5169cae9c234642b6087add487b316
+      internalID: -1523935399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prota_Por_Partes_Pt1_1
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 1358
+        width: 781
+        height: 580
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6da00468c285854498892696525ff20
+      internalID: 1811275752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prota_Por_Partes_Pt1_2
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 839
+        width: 196
+        height: 191
+      alignment: 9
+      pivot: {x: 0.5995309, y: 0.85018235}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f459561e791e045b015ef428ebcf54
+      internalID: -323990900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prota_Por_Partes_Pt1_3
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 542
+        width: 251
+        height: 329
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f99381053cd2f4db03ca72dfd7e9f6
+      internalID: 448564550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prota_Por_Partes_Pt1_4
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 823
+        width: 147
+        height: 191
+      alignment: 9
+      pivot: {x: 0.17771113, y: 0.8647733}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ca3ba4c2089d574b97c2e0bf5bd7996
+      internalID: 933512985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prota_Por_Partes_Pt1_5
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 586
+        width: 103
+        height: 178
+      alignment: 9
+      pivot: {x: 0.6352847, y: 0.9383833}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ac62c60079e774bb4e01c0366df024
+      internalID: 1120077356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prota_Por_Partes_Pt1_6
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 546
+        width: 103
+        height: 180
+      alignment: 9
+      pivot: {x: 0.31060258, y: 0.91803014}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e39c482cf17fc49b946682f33c19ac
+      internalID: -684988912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prota_Por_Partes_Pt1_7
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 244
+        width: 103
+        height: 233
+      alignment: 9
+      pivot: {x: 0.47294423, y: 0.89470494}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb622a74d601fe4ba1b607672c4cd1d
+      internalID: -628835410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prota_Por_Partes_Pt1_8
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 258
+        width: 129
+        height: 211
+      alignment: 9
+      pivot: {x: 0.17594685, y: 0.8962363}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c0399b2031ce9541975cc8ef0eb54cf
+      internalID: -631747267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Prota_Por_Partes_Pt1_0: -1523935399
+      Prota_Por_Partes_Pt1_1: 1811275752
+      Prota_Por_Partes_Pt1_2: -323990900
+      Prota_Por_Partes_Pt1_3: 448564550
+      Prota_Por_Partes_Pt1_4: 933512985
+      Prota_Por_Partes_Pt1_5: 1120077356
+      Prota_Por_Partes_Pt1_6: -684988912
+      Prota_Por_Partes_Pt1_7: -628835410
+      Prota_Por_Partes_Pt1_8: -631747267
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
