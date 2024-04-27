@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: ef7dfe18a186e0a4187df48215d760bc
+guid: d5f595d9e58c5fc4fa66226b67c5b98e
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -48,7 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 400
+  spritePixelsToUnits: 800
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -97,34 +97,76 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Prota_Por_Partes_Pt1_0
+      name: LloronaPorPartes_0
       rect:
         serializedVersion: 2
-        x: 713
-        y: 987
-        width: 603
-        height: 690
+        x: 152
+        y: 1146
+        width: 2043
+        height: 2465
       alignment: 9
-      pivot: {x: 0.6201633, y: 0.071872875}
+      pivot: {x: 0.35054153, y: 0.54954857}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0f5169cae9c234642b6087add487b316
-      internalID: -1523935399
+      spriteID: 381ca5c36af2fa64aa25c81a5e65264a
+      internalID: 192583966
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Prota_Por_Partes_Pt1_1
+      name: LloronaPorPartes_1
       rect:
         serializedVersion: 2
-        x: 1426
-        y: 1358
-        width: 781
-        height: 580
+        x: 3127
+        y: 2331
+        width: 209
+        height: 406
+      alignment: 9
+      pivot: {x: 0.12370804, y: 0.97419745}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56fc9e72732b8f24f8ab608942630d37
+      internalID: -1728897159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LloronaPorPartes_2
+      rect:
+        serializedVersion: 2
+        x: 4322
+        y: 2196
+        width: 1191
+        height: 1116
+      alignment: 9
+      pivot: {x: 0.44231516, y: 0.110112675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba67f937e4428c4fb09e10b606f8801
+      internalID: -846730993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LloronaPorPartes_3
+      rect:
+        serializedVersion: 2
+        x: 2336
+        y: 155
+        width: 862
+        height: 1378
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -132,41 +174,62 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a6da00468c285854498892696525ff20
-      internalID: 1811275752
+      spriteID: f5609c4394a850e43a4ad07e09f3a2c5
+      internalID: -1783286995
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Prota_Por_Partes_Pt1_2
+      name: LloronaPorPartes_4
       rect:
         serializedVersion: 2
-        x: 391
-        y: 839
-        width: 196
-        height: 191
+        x: 3422
+        y: 146
+        width: 1215
+        height: 1197
       alignment: 9
-      pivot: {x: 0.5995309, y: 0.85018235}
+      pivot: {x: 0.40689442, y: 0.8957419}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 61f459561e791e045b015ef428ebcf54
-      internalID: -323990900
+      spriteID: ee3b3018f6550db47b807f3ca5d8b52d
+      internalID: 1324903088
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Prota_Por_Partes_Pt1_3
+      name: LloronaPorPartes_5
       rect:
         serializedVersion: 2
-        x: 971
-        y: 542
-        width: 251
-        height: 329
+        x: 4916
+        y: 1014
+        width: 1093
+        height: 619
+      alignment: 9
+      pivot: {x: 0.915652, y: 0.8226796}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bdd2be5fd6d3dd4e82afbb43677194e
+      internalID: -730481692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LloronaPorPartes_6
+      rect:
+        serializedVersion: 2
+        x: 5235
+        y: 983
+        width: 13
+        height: 11
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -174,113 +237,134 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a5f99381053cd2f4db03ca72dfd7e9f6
-      internalID: 448564550
+      spriteID: 98c94e3d98e65584facc166b1d753a78
+      internalID: -201736618
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Prota_Por_Partes_Pt1_4
+      name: LloronaPorPartes_7
       rect:
         serializedVersion: 2
-        x: 1614
-        y: 823
-        width: 147
-        height: 191
-      alignment: 9
-      pivot: {x: 0.17771113, y: 0.8647733}
+        x: 5103
+        y: 962
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7ca3ba4c2089d574b97c2e0bf5bd7996
-      internalID: 933512985
+      spriteID: 7f7e389e2cf98964e86b83c7a32fdee7
+      internalID: 1019888453
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Prota_Por_Partes_Pt1_5
+      name: LloronaPorPartes_8
       rect:
         serializedVersion: 2
-        x: 377
-        y: 586
-        width: 103
-        height: 178
+        x: 166
+        y: 162
+        width: 1078
+        height: 627
       alignment: 9
-      pivot: {x: 0.6352847, y: 0.9383833}
+      pivot: {x: 0.90991414, y: 0.79882014}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 07ac62c60079e774bb4e01c0366df024
-      internalID: 1120077356
+      spriteID: d1b47077b1414c346b1317710050d98a
+      internalID: 921053532
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Prota_Por_Partes_Pt1_6
+      name: LloronaPorPartes_9
       rect:
         serializedVersion: 2
-        x: 1687
-        y: 546
-        width: 103
-        height: 180
+        x: 1462
+        y: 180
+        width: 627
+        height: 659
       alignment: 9
-      pivot: {x: 0.31060258, y: 0.91803014}
+      pivot: {x: 0.85520166, y: 0.827224}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 87e39c482cf17fc49b946682f33c19ac
-      internalID: -684988912
+      spriteID: 6fee66eeb54545448873c5281f713679
+      internalID: 875980708
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Prota_Por_Partes_Pt1_7
+      name: LloronaPorPartes_10
       rect:
         serializedVersion: 2
-        x: 932
-        y: 244
-        width: 103
-        height: 233
+        x: 5194
+        y: 125
+        width: 628
+        height: 661
       alignment: 9
-      pivot: {x: 0.47294423, y: 0.89470494}
+      pivot: {x: 0.8367632, y: 0.82587683}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2bb622a74d601fe4ba1b607672c4cd1d
-      internalID: -628835410
+      spriteID: f3be7261f6536e54997f64283969edc3
+      internalID: -1572162782
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Prota_Por_Partes_Pt1_8
+      name: LloronaPorPartes_11
       rect:
         serializedVersion: 2
-        x: 1165
-        y: 258
-        width: 129
-        height: 211
-      alignment: 9
-      pivot: {x: 0.17594685, y: 0.8962363}
+        x: 485
+        y: 131
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3c0399b2031ce9541975cc8ef0eb54cf
-      internalID: -631747267
+      spriteID: 235fbfc75d938e14a8f18c534b9185b8
+      internalID: -513108943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LloronaPorPartes_12
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 110
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f116bcac82508f44ea69684242d43b59
+      internalID: -1402615751
       vertices: []
       indices: 
       edges: []
@@ -296,15 +380,19 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Prota_Por_Partes_Pt1_0: -1523935399
-      Prota_Por_Partes_Pt1_1: 1811275752
-      Prota_Por_Partes_Pt1_2: -323990900
-      Prota_Por_Partes_Pt1_3: 448564550
-      Prota_Por_Partes_Pt1_4: 933512985
-      Prota_Por_Partes_Pt1_5: 1120077356
-      Prota_Por_Partes_Pt1_6: -684988912
-      Prota_Por_Partes_Pt1_7: -628835410
-      Prota_Por_Partes_Pt1_8: -631747267
+      LloronaPorPartes_0: 192583966
+      LloronaPorPartes_1: -1728897159
+      LloronaPorPartes_10: -1572162782
+      LloronaPorPartes_11: -513108943
+      LloronaPorPartes_12: -1402615751
+      LloronaPorPartes_2: -846730993
+      LloronaPorPartes_3: -1783286995
+      LloronaPorPartes_4: 1324903088
+      LloronaPorPartes_5: -730481692
+      LloronaPorPartes_6: -201736618
+      LloronaPorPartes_7: 1019888453
+      LloronaPorPartes_8: 921053532
+      LloronaPorPartes_9: 875980708
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

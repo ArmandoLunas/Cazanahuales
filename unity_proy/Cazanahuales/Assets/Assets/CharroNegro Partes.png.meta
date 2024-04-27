@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: ef7dfe18a186e0a4187df48215d760bc
+guid: b13888a00035187408f5a25570ef0a90
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -48,7 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 400
+  spritePixelsToUnits: 270
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -97,190 +97,253 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Prota_Por_Partes_Pt1_0
+      name: CharroNegro Partes_0
       rect:
         serializedVersion: 2
-        x: 713
-        y: 987
-        width: 603
-        height: 690
+        x: 143
+        y: 1653
+        width: 923
+        height: 269
       alignment: 9
-      pivot: {x: 0.6201633, y: 0.071872875}
+      pivot: {x: 0.48063064, y: 0.34809053}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0f5169cae9c234642b6087add487b316
-      internalID: -1523935399
+      spriteID: 591770635c0fe854c9613b6725a7888f
+      internalID: 738762794
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Prota_Por_Partes_Pt1_1
+      name: CharroNegro Partes_1
       rect:
         serializedVersion: 2
-        x: 1426
-        y: 1358
-        width: 781
-        height: 580
+        x: 1425
+        y: 1298
+        width: 388
+        height: 521
+      alignment: 9
+      pivot: {x: 0.49114457, y: 0.1548913}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1942ff21fce50114ba3d8dc0acfde8ec
+      internalID: 793404679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharroNegro Partes_2
+      rect:
+        serializedVersion: 2
+        x: 1938
+        y: 1540
+        width: 75
+        height: 35
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a6da00468c285854498892696525ff20
-      internalID: 1811275752
+      spriteID: 601d9d5667342be41a7d0abcca02b440
+      internalID: 20609801
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Prota_Por_Partes_Pt1_2
+      name: CharroNegro Partes_3
       rect:
         serializedVersion: 2
-        x: 391
-        y: 839
-        width: 196
-        height: 191
+        x: 325
+        y: 1116
+        width: 167
+        height: 235
       alignment: 9
-      pivot: {x: 0.5995309, y: 0.85018235}
+      pivot: {x: 0.89195573, y: 0.86962426}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 61f459561e791e045b015ef428ebcf54
-      internalID: -323990900
+      spriteID: 8ae760b0b2e21224fbcb15a51ab533f3
+      internalID: -654422599
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Prota_Por_Partes_Pt1_3
+      name: CharroNegro Partes_4
       rect:
         serializedVersion: 2
-        x: 971
+        x: 2514
+        y: 1261
+        width: 166
+        height: 237
+      alignment: 9
+      pivot: {x: 0.89285755, y: 0.928936}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d14ba993a0c85458b9d8007c1fe99a
+      internalID: 1267068076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharroNegro Partes_5
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 810
+        width: 430
+        height: 222
+      alignment: 9
+      pivot: {x: 0.94921064, y: 0.896042}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc996a2ddb856a4fa473061cde00888
+      internalID: -771394949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharroNegro Partes_6
+      rect:
+        serializedVersion: 2
+        x: 2378
+        y: 971
+        width: 433
+        height: 226
+      alignment: 9
+      pivot: {x: 0.93692714, y: 0.8965319}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92eb731d519d6b84abfdf9b8452f8a8a
+      internalID: -546869082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharroNegro Partes_7
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 181
+        width: 261
+        height: 498
+      alignment: 9
+      pivot: {x: 0.46045506, y: 0.48272863}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 319107b89f5973d4783c8f1a63099f4a
+      internalID: -1254295989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharroNegro Partes_8
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 544
+        width: 72
+        height: 293
+      alignment: 9
+      pivot: {x: 0.6419152, y: 0.94837195}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98d0aa2dd416ca46a02ab764c1e348c
+      internalID: 1812701403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharroNegro Partes_9
+      rect:
+        serializedVersion: 2
+        x: 1781
         y: 542
-        width: 251
-        height: 329
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        width: 78
+        height: 309
+      alignment: 9
+      pivot: {x: 0.31285995, y: 0.9440511}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a5f99381053cd2f4db03ca72dfd7e9f6
-      internalID: 448564550
+      spriteID: 24e1122f008c9864384d70ae9777d9c5
+      internalID: -446308828
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Prota_Por_Partes_Pt1_4
+      name: CharroNegro Partes_10
       rect:
         serializedVersion: 2
-        x: 1614
-        y: 823
-        width: 147
-        height: 191
+        x: 1246
+        y: 70
+        width: 201
+        height: 405
       alignment: 9
-      pivot: {x: 0.17771113, y: 0.8647733}
+      pivot: {x: 0.8776339, y: 0.9721497}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7ca3ba4c2089d574b97c2e0bf5bd7996
-      internalID: 933512985
+      spriteID: d29bbd2b0b380dc45a3e9da411bd554a
+      internalID: -1710896111
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Prota_Por_Partes_Pt1_5
+      name: CharroNegro Partes_11
       rect:
         serializedVersion: 2
-        x: 377
-        y: 586
-        width: 103
-        height: 178
+        x: 1701
+        y: 59
+        width: 191
+        height: 414
       alignment: 9
-      pivot: {x: 0.6352847, y: 0.9383833}
+      pivot: {x: 0.5840668, y: 0.96188533}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 07ac62c60079e774bb4e01c0366df024
-      internalID: 1120077356
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Prota_Por_Partes_Pt1_6
-      rect:
-        serializedVersion: 2
-        x: 1687
-        y: 546
-        width: 103
-        height: 180
-      alignment: 9
-      pivot: {x: 0.31060258, y: 0.91803014}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 87e39c482cf17fc49b946682f33c19ac
-      internalID: -684988912
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Prota_Por_Partes_Pt1_7
-      rect:
-        serializedVersion: 2
-        x: 932
-        y: 244
-        width: 103
-        height: 233
-      alignment: 9
-      pivot: {x: 0.47294423, y: 0.89470494}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2bb622a74d601fe4ba1b607672c4cd1d
-      internalID: -628835410
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Prota_Por_Partes_Pt1_8
-      rect:
-        serializedVersion: 2
-        x: 1165
-        y: 258
-        width: 129
-        height: 211
-      alignment: 9
-      pivot: {x: 0.17594685, y: 0.8962363}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3c0399b2031ce9541975cc8ef0eb54cf
-      internalID: -631747267
+      spriteID: 448490784e286524e81661ec443ca107
+      internalID: -1866670078
       vertices: []
       indices: 
       edges: []
@@ -296,15 +359,18 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Prota_Por_Partes_Pt1_0: -1523935399
-      Prota_Por_Partes_Pt1_1: 1811275752
-      Prota_Por_Partes_Pt1_2: -323990900
-      Prota_Por_Partes_Pt1_3: 448564550
-      Prota_Por_Partes_Pt1_4: 933512985
-      Prota_Por_Partes_Pt1_5: 1120077356
-      Prota_Por_Partes_Pt1_6: -684988912
-      Prota_Por_Partes_Pt1_7: -628835410
-      Prota_Por_Partes_Pt1_8: -631747267
+      CharroNegro Partes_0: 738762794
+      CharroNegro Partes_1: 793404679
+      CharroNegro Partes_10: -1710896111
+      CharroNegro Partes_11: -1866670078
+      CharroNegro Partes_2: 20609801
+      CharroNegro Partes_3: -654422599
+      CharroNegro Partes_4: 1267068076
+      CharroNegro Partes_5: -771394949
+      CharroNegro Partes_6: -546869082
+      CharroNegro Partes_7: -1254295989
+      CharroNegro Partes_8: 1812701403
+      CharroNegro Partes_9: -446308828
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
