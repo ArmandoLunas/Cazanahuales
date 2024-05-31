@@ -28,7 +28,7 @@ Además, adjuntar al menos cinco imágenes que muestran el proceso de trabajo, j
 
 ## **Conclusión:** 
 
-* Gutiérrez Ávila Tristan Bernardo:
+* Gutiérrez Ávila Tristan Bernardo: Como músico aprendí muchas cosas que no sabía, la elaboración del juego me permitió adentrarme en el uso de algunos programas que me permitieron sintetizar sonidos y modificar estos, al igual que esto me ayudo a entender cómo estaban compuestas las canciones y cómo es que ciertas entonaciones podían reflejar diferentes cosas como el suspenso o el miedo, de igual manera el proyecto me orilló a tener que tomar referencia de otros artistas que no conocía y también me orilló a conocer diferentes artistas indie que realizan música y sonidos con escasas herramientas en algunos casos
 
 * Luna Juárez Armando: Al ser mi primer proyecto como manager, he de decir que aprendí algunas cosas muy básicas del SCRUM, cabe resaltar que llevar las materias de ingeniería de software y administración de proyectos sí que ayudaron con el manejo del equipo y del proyecto. También aprendí la experiencia de presentar proyectos ante diferentes personas, aunque no es algo que me guste, creo que tener esta experiencia me ayudó para entender mejor qué es lo que me gusta y qué no de los proyectos de software.
 
